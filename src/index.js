@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//  Font
+import './fonts/JackSimba.otf'
+import './fonts/teen.ttf';
+import './fonts/Roboto.ttf'
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
